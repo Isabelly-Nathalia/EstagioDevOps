@@ -1,5 +1,6 @@
 # EstagioDevOps
 Olá, eu sou Isabelly Nathália e estou participando do processo seletivo para estágio em DevOps. Qualquer dúvida eu me coloco à disposição e  desde já agradeço a oportunidade!
+
 Documentação Terraform
 
 Esta documentação tem como objetivo explicar o funcionamento do código Terraform utilizado para provisionar recursos na AWS. O código foi projetado para criar uma instância EC2 em uma VPC, incluindo as configurações necessárias, como chaves de acesso, grupos de segurança e tabelas de rotas. 
